@@ -112,5 +112,7 @@
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-autoconfigure:1.5.4.RELEASE" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.freemarker:freemarker:2.3.23" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.mybatis.generator:mybatis-generator-core:1.3.5" level="project" />
+    <orderEntry type="library" name="com.easemob:rest-java-sdk:1.0.5" level="project" />
+    <orderEntry type="library" name="ch.qos.logback:logback-classic:0.9.30" level="project" />
   </component>
 </module>
