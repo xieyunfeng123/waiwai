@@ -5,3 +5,7 @@
 
 1.视频处理相关的
 https://blog.csdn.net/qqchenjian318/article/details/77396653
+
+2.图片的压缩
+https://github.com/zetbaitsu/Compressor
+https://github.com/Curzibn/Luban
